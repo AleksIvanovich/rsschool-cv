@@ -14,6 +14,7 @@ I want to gain new knowledge and develop in the feild of programming.Preserveran
 * Figma
 * Git
 * Photoshop
+* Сomputer repair
 ******
 English
 * Englosh level - A2
